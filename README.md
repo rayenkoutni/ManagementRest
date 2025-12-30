@@ -1,4 +1,4 @@
-﻿#ManagementRest – Person Management REST API
+﻿# ManagementRest – Person Management REST API
 A simple Java RESTful backend for managing persons, built with JAX-RS, JPA (Hibernate), and Maven.
 The project exposes CRUD operations over HTTP and uses a relational database via JPA.
 
@@ -166,5 +166,6 @@ You are free to modify and extend it.
 
 Rayen Koutni,Manar Messaoudi
 Students.
+
 
 
